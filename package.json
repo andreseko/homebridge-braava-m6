@@ -1,12 +1,10 @@
 {
-  "name": "homebridge-braava-m6",
+  "name": "@andreseko/homebridge-braava-m6",
   "description": "Control your iRobot Braava M6 with Siri and HomeKit",
   "version": "1.0.0",
   "license": "ISC",
-  "author": {
-    "name": "Andre Goncalves"
-  },
-  "main": "",
+  "author": "Andre Goncalves",
+  "main": "index.js",
   "keywords": [
     "homebridge-plugin",
     "iRobot",
@@ -19,7 +17,7 @@
   "homepage": "https://github.com/andreseko/homebridge-braava-m6.git#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andreseko/homebridge-braava-m6"
+    "url": "git://github.com/andreseko/homebridge-braava-m6.git"
   },
   "engines": {
     "node": ">=0.12.0",
