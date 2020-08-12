@@ -1,0 +1,42 @@
+{
+  "name": "homebridge-braava-m6",
+  "description": "Control your iRobot Braava M6 with Siri and HomeKit",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": {
+    "name": "Andre Goncalves"
+  },
+  "main": "",
+  "keywords": [
+    "homebridge-plugin",
+    "iRobot",
+    "Braava",
+    "m6"
+  ],
+  "bugs": {
+    "url": "https://github.com/andreseko/homebridge-braava-m6.git/issues"
+  },
+  "homepage": "https://github.com/andreseko/homebridge-braava-m6.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreseko/homebridge-braava-m6"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "dependencies": {
+    "dorita980": "^3.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-plugin-import": "^1.15.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.3.0",
+    "eslint-loader": "^1.6.1"
+  }
+}
