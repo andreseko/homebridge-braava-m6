@@ -2,8 +2,8 @@
 
 [![NPM version][npm-image]][npm-url]
 
-[npm-image]: https://img.shields.io/npm/v/@andreseko/homebridge-braava-m6.svg
-[npm-url]: https://www.npmjs.com/package/@andreseko/homebridge-braava-m6/
+[npm-image]: https://img.shields.io/npm/v/homebridge-braava-m6.svg
+[npm-url]: https://www.npmjs.com/package/homebridge-braava-m6/
 
 Control your iRobot Braava M6 through HomeKit. (Available for the 800 and 900 series with V2.0 or higher)
 
@@ -11,7 +11,7 @@ Control your iRobot Braava M6 through HomeKit. (Available for the 800 and 900 se
 
 ## 1. Installation
 ```bash
-npm install -g @andreseko/homebridge-braava-m6
+npm install -g homebridge-braava-m6
 ```
 
 ## 2. Confirm the IP address to which Braava M6 is connected with the official application.
