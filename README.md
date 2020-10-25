@@ -64,8 +64,8 @@ password is `:1:2345678910:ABCDEFGHIJKLMNOP`.
 ## 4. Update homebridge configuration file.
 ```json
   {
-    "platform": "Braava M6",
-    "name": "Braava M6",
+    "platform": "Braava",
+    "name": "Braava",
     "robots": [
       {
         "name": "Name of the robot in the Home app",
