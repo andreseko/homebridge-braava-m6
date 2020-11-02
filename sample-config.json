@@ -7,8 +7,8 @@
   },
   "platforms": [
     {
-      "platform": "Braava M6",
-      "name": "Braava M6",
+      "platform": "Braava",
+      "name": "Braava",
       "robots": [
         {
           "name": "Braava M6",
