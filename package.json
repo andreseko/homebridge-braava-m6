@@ -1,7 +1,7 @@
 {
   "name": "homebridge-braava-m6",
   "description": "Control your iRobot Braava M6 with Siri and HomeKit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Andre Goncalves",
   "main": "index.js",
